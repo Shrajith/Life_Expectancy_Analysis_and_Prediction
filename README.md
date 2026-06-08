@@ -45,7 +45,3 @@ This project analyzes global life expectancy data and builds machine learning mo
 ## Objective
 
 To analyze factors affecting life expectancy and predict life expectancy using machine learning and data visualization techniques.
-
-## About
-
-End-to-end machine learning and Power BI project for global life expectancy analysis and prediction.
