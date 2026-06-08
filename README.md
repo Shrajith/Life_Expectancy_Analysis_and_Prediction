@@ -49,8 +49,3 @@ To analyze factors affecting life expectancy and predict life expectancy using m
 ## About
 
 End-to-end machine learning and Power BI project for global life expectancy analysis and prediction.
-
----
-
-**Author:** Your Name  
-**Project:** Global Life Expectancy Analysis using Machine Learning & Power BI
